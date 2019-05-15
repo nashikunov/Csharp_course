@@ -1,0 +1,6 @@
+/Users/nikolaysafonov/Desktop/прога/ConsoleApplication4/ConsoleApplication4/obj/Debug/ConsoleApplication4.csprojResolveAssemblyReference.cache
+/Users/nikolaysafonov/Desktop/прога/ConsoleApplication4/ConsoleApplication4/obj/Debug/ConsoleApplication4.csproj.CoreCompileInputs.cache
+/Users/nikolaysafonov/Desktop/прога/ConsoleApplication4/ConsoleApplication4/bin/Debug/ConsoleApplication4.exe
+/Users/nikolaysafonov/Desktop/прога/ConsoleApplication4/ConsoleApplication4/bin/Debug/ConsoleApplication4.pdb
+/Users/nikolaysafonov/Desktop/прога/ConsoleApplication4/ConsoleApplication4/obj/Debug/ConsoleApplication4.exe
+/Users/nikolaysafonov/Desktop/прога/ConsoleApplication4/ConsoleApplication4/obj/Debug/ConsoleApplication4.pdb

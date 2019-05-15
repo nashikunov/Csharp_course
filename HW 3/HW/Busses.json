@@ -1,0 +1,35 @@
+﻿[
+  {
+    "Name": "11",
+    "Start": "2018-01-02T05:00:00",
+    "Finish": "2018-01-03T01:00:00",
+    "Interval": 5,
+    "RouteStops": [ "Library", "Bank", "School", "Shop", "Stadium" ],
+    "Distance": [ 5, 3, 4, 2, 5 ]
+  },
+  {
+    "Name": "23",
+    "Start": "2018-01-02T05:10:00",
+    "Finish": "2018-01-03T01:10:00",
+    "Interval": 8,
+    "RouteStops": [ "Park", "Library", "Bank", "Factory", "Police Station" ],
+    "Distance": [ 6, 2, 3, 6, 2 ]
+  },
+  {
+    "Name": "605",
+    "Start": "2018-01-02T06:00:00",
+    "Finish": "2018-01-03T02:00:00",
+    "Interval": 10,
+    "RouteStops": [ "Bank", "Factory", "Police Station", "School", "Shop", "Stadium", "Airport" ],
+    "Distance": [ 7, 6, 2, 7, 2, 5, 6 ]
+  },
+  {
+    "Name": "98",
+    "Start": "2018-01-02T04:20:00",
+    "Finish": "2018-01-03T03:15:00",
+    "Interval": 15,
+    "RouteStops": [ "Library", "Park", "Airport", "Stadium", "Police Station", "Factory" ],
+    "Distance": [ 8, 2, 9, 6, 10, 2 ]
+  }
+]
+

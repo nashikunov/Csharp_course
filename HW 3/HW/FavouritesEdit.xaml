@@ -1,0 +1,74 @@
+﻿<Window x:Class="HW.FavouritesEdit"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HW"
+        mc:Ignorable="d"
+        Title="FavouritesEdit" Height="400" Width="400" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" Background="#FF33B8FF">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30"/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition Height="40"/>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <StackPanel Margin="10" Grid.Row="1">
+            <CheckBox Content="Bus №11" IsChecked="False" Name="bus11checkBox" Checked="bus11checkBox_Checked"/>
+            <StackPanel Margin="20,10">
+                <CheckBox Content="Library" IsChecked="False" Name="checkBox11_1" IsEnabled="False" />
+                <CheckBox Content="Bank" IsChecked="False" Name="checkBox11_2" IsEnabled="False"/>
+                <CheckBox Content="School" IsChecked="False" Name="checkBox11_3" IsEnabled="False"/>
+                <CheckBox Content="Shop" IsChecked="False" Name="checkBox11_4" IsEnabled="False"/>
+                <CheckBox Content="Stadium" IsChecked="False" Name="checkBox11_5" IsEnabled="False"/>
+            </StackPanel>
+        </StackPanel>
+
+        <StackPanel Margin="10" Grid.Column="1" Grid.Row="1">
+            <CheckBox Content="Bus №23" IsChecked="False" Name="bus23checkBox" Checked="bus23checkBox_Checked"/>
+            <StackPanel Margin="20,10">
+                <CheckBox Content="Park" IsChecked="False" Name="checkBox23_1" IsEnabled="False"/>
+                <CheckBox Content="Library" IsChecked="False" Name="checkBox23_2" IsEnabled="False"/>
+                <CheckBox Content="Bank" IsChecked="False" Name="checkBox23_3" IsEnabled="False"/>
+                <CheckBox Content="Factory" IsChecked="False" Name="checkBox23_4" IsEnabled="False"/>
+                <CheckBox Content="Police Station" IsChecked="False" Name="checkBox23_5" IsEnabled="False"/>
+            </StackPanel>
+        </StackPanel>
+ 
+        <StackPanel Margin="10" Grid.Row="2">
+            <CheckBox Content="Bus №605" IsChecked="False" Name="bus605checkBox" Checked="bus605checkBox_Checked"/>
+            <StackPanel Margin="20,10">
+                <CheckBox Content="Bank" IsChecked="False" Name="checkBox605_1" IsEnabled="False"/>
+                <CheckBox Content="Factory" IsChecked="False" Name="checkBox605_2" IsEnabled="False"/>
+                <CheckBox Content="Police Station" IsChecked="False" Name="checkBox605_3" IsEnabled="False"/>
+                <CheckBox Content="School" IsChecked="False" Name="checkBox605_4" IsEnabled="False"/>
+                <CheckBox Content="Shop" IsChecked="False" Name="checkBox605_5" IsEnabled="False"/>
+                <CheckBox Content="Stadium" IsChecked="False" Name="checkBox605_6" IsEnabled="False"/>
+                <CheckBox Content="Airport" IsChecked="False" Name="checkBox605_7" IsEnabled="False"/>
+            </StackPanel>
+        </StackPanel>
+
+        <StackPanel Margin="10" Grid.Row="2" Grid.Column="1" >
+            <CheckBox Content="Bus №98" IsChecked="False" Name="bus98checkBox" Checked="bus98checkBox_Checked"/>
+            <StackPanel Margin="20,10">
+                <CheckBox Content="Library" IsChecked="False" Name="checkBox98_1" IsEnabled="False"/>
+                <CheckBox Content="Park" IsChecked="False" Name="checkBox98_2" IsEnabled="False"/>
+                <CheckBox Content="Airport" IsChecked="False" Name="checkBox98_3" IsEnabled="False"/>
+                <CheckBox Content="Stadium" IsChecked="False" Name="checkBox98_4" IsEnabled="False"/>
+                <CheckBox Content="Police Station" IsChecked="False" Name="checkBox98_5" IsEnabled="False"/>
+                <CheckBox Content="Factory" IsChecked="False" Name="checkBox98_6" IsEnabled="False"/>
+            </StackPanel>
+        </StackPanel>
+
+        <TextBlock Text="Choose your favourite routes!" FontSize="20" Grid.ColumnSpan="2" TextAlignment="Center" FontWeight="Bold"/>
+        <Button Content="Save" Grid.ColumnSpan="2" Grid.Row="3" Width="70" Height="30" Click="SaveButton_Click" Cursor="Hand"/>
+
+
+    </Grid>
+</Window>

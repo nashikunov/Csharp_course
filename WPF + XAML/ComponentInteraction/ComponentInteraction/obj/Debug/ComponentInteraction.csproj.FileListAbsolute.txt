@@ -1,0 +1,17 @@
+\\Mac\Home\Desktop\прога\ComponentInteraction\ComponentInteraction\bin\Debug\ComponentInteraction.exe.config
+\\Mac\Home\Desktop\прога\ComponentInteraction\ComponentInteraction\bin\Debug\ComponentInteraction.exe
+\\Mac\Home\Desktop\прога\ComponentInteraction\ComponentInteraction\bin\Debug\ComponentInteraction.pdb
+\\Mac\Home\Desktop\прога\ComponentInteraction\ComponentInteraction\obj\Debug\ComponentInteraction.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\прога\ComponentInteraction\ComponentInteraction\obj\Debug\MainWindow.g.cs
+\\Mac\Home\Desktop\прога\ComponentInteraction\ComponentInteraction\obj\Debug\App.g.cs
+\\Mac\Home\Desktop\прога\ComponentInteraction\ComponentInteraction\obj\Debug\ComponentInteraction_MarkupCompile.cache
+\\Mac\Home\Desktop\прога\ComponentInteraction\ComponentInteraction\obj\Debug\ComponentInteraction_MarkupCompile.lref
+\\Mac\Home\Desktop\прога\ComponentInteraction\ComponentInteraction\obj\Debug\MainWindow.baml
+\\Mac\Home\Desktop\прога\ComponentInteraction\ComponentInteraction\obj\Debug\ComponentInteraction.g.resources
+\\Mac\Home\Desktop\прога\ComponentInteraction\ComponentInteraction\obj\Debug\ComponentInteraction.Properties.Resources.resources
+\\Mac\Home\Desktop\прога\ComponentInteraction\ComponentInteraction\obj\Debug\ComponentInteraction.csproj.GenerateResource.Cache
+\\Mac\Home\Desktop\прога\ComponentInteraction\ComponentInteraction\obj\Debug\ComponentInteraction.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\прога\ComponentInteraction\ComponentInteraction\obj\Debug\ComponentInteraction.exe
+\\Mac\Home\Desktop\прога\ComponentInteraction\ComponentInteraction\obj\Debug\ComponentInteraction.pdb
+\\Mac\Home\Desktop\прога\ComponentInteraction\ComponentInteraction\obj\Debug\ButtonWindow.g.cs
+\\Mac\Home\Desktop\прога\ComponentInteraction\ComponentInteraction\obj\Debug\ButtonWindow.baml

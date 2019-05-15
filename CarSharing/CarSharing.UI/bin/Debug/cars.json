@@ -1,0 +1,42 @@
+[
+  {
+    "ModelId": 2,
+    "Rating": 7,
+    "IsAvailable": true,
+    "Location": {
+      "Latitude": 55.77874,
+      "Longitude": 37.732647
+    },
+    "FuelLeft": 90.0
+  },
+  {
+    "ModelId": 2,
+    "Rating": 8,
+    "IsAvailable": false,
+    "Location": {
+      "Latitude": 55.77876,
+      "Longitude": 37.734647
+    },
+    "FuelLeft": 45.0
+  },
+  {
+    "ModelId": 10,
+    "Rating": 10,
+    "IsAvailable": true,
+    "Location": {
+      "Latitude": 55.67874,
+      "Longitude": 37.742647
+    },
+    "FuelLeft": 28.0
+  },
+  {
+    "ModelId": 10,
+    "Rating": 9,
+    "IsAvailable": true,
+    "Location": {
+      "Latitude": 55.77874,
+      "Longitude": 37.782647
+    },
+    "FuelLeft": 99.0
+  }
+]

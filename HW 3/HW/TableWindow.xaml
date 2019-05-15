@@ -1,0 +1,64 @@
+﻿<Window x:Class="HW.TableWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HW"
+        mc:Ignorable="d"
+        Title="TableWindow" Height="600" Width="700" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" Background="#FFE4DDD3">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="100"/>
+            <RowDefinition Height="100"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <Button Content="Exit" Width="40" Height="38" Margin="0,6,297,6" HorizontalAlignment="Right" Click="ExitButton_Click" Cursor="Hand"/>
+
+
+        <Button Name="FavButton" Width="200" Grid.Column="1" HorizontalAlignment="Center" Margin="0 6" Content="Favourite" FontSize="20" Cursor="Hand" Click="FavouriteButton_Click" IsEnabled="False"/>
+
+        <TextBlock Text="Select the route number" Grid.Row="1" Grid.ColumnSpan="2" FontSize="20" TextDecorations="{x:Null}" FontWeight="Bold" TextAlignment="Center"/>
+        <TextBlock Text="Select the right station" Grid.Row="2" Grid.ColumnSpan="2" FontSize="20" TextDecorations="{x:Null}" FontWeight="Bold" TextAlignment="Center"/>
+        <ComboBox Name="comboBoxRoutes" Grid.Row="1"  Grid.ColumnSpan="2" Height="40" Width="400" VerticalAlignment="Center" Padding="3" Cursor="Hand"  >
+            <ComboBox.ItemTemplate >
+                <DataTemplate>
+                    <TextBlock Text="{Binding }"/>
+                </DataTemplate>
+            </ComboBox.ItemTemplate>
+        </ComboBox>
+
+        <Button Name="OkRouteButton" Content="OK" Grid.Row="1" Grid.Column="1" Width="50" Height="40" Margin="204.5,30,0,30" Click="ButtonOkRoute_Click" HorizontalAlignment="Left" />
+
+        <Button Name="OkStopButton" Content="OK" Grid.Row="2" Grid.Column="1" Height="40" Width="50" Click="ButtonOkStop_Click" Margin="204.5,30,0,30" HorizontalAlignment="Left" Cursor="Hand" IsEnabled="False"  />
+
+        <Button Content="Reset" Grid.Row="2" Grid.Column="1" Height="40" Width="70" Margin="267.5,30,0,30" Click="ResetButton_Click" HorizontalAlignment="Left" Cursor="Hand"/>
+
+        <ComboBox Name="comboBoxStops" Grid.Row="2"  Grid.ColumnSpan="2" Height="40" Width="400" VerticalAlignment="Center" IsEnabled="False" Padding="3" Cursor="Hand" >
+            <ComboBox.ItemTemplate>
+                <DataTemplate>
+                    <TextBlock Text="{Binding }"/>
+                </DataTemplate>
+            </ComboBox.ItemTemplate>
+        </ComboBox>
+
+        <DataGrid Name="dataGridTable" Grid.Row="3" Grid.ColumnSpan="2" AutoGenerateColumns="False" IsReadOnly="True">
+            <DataGrid.Columns>
+                <DataGridTextColumn Width="1*" Header="Bus number" Binding="{Binding Route.Name}"/>
+                <DataGridTextColumn Width="1*" Header="Station" Binding="{Binding SelectedStation}"/>
+                <DataGridTextColumn Width="1*" Header="Destination" Binding="{Binding LastStation}"/>
+                <DataGridTextColumn Width="1*" Header="Minutes" Binding="{Binding Minute}"/>
+            </DataGrid.Columns>
+
+        </DataGrid>
+
+
+
+
+    </Grid> 
+</Window>

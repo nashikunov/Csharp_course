@@ -1,0 +1,31 @@
+﻿[
+	{
+		"Name" : "Ivan",
+		"Surname" : "Ivanov",
+		"DateOfBirth" : "1997-01-02",
+		"Rating" : 90,
+		"GroupId" : 3
+	},
+	{
+		"Name" : "Petr",
+		"Surname" : "Platonov",
+		"DateOfBirth" : "1998-03-05",
+		"Rating" : 120,
+		"GroupId" : 1
+	},
+	{
+		"Name" : "Pavel",
+		"Surname" : "Pavlov",
+		"DateOfBirth" : "1999-06-08",
+		"Rating" : 140,
+		"GroupId" : 3
+	},
+	{
+		"Name" : "Alex",
+		"Surname" : "Alexeev",
+		"DateOfBirth" : "1998-07-09",
+		"Rating" : 120,
+		"GroupId" : 2
+	}
+
+]

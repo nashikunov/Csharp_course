@@ -1,0 +1,6 @@
+/Users/nikolaysafonov/Desktop/прога/seminar3/Katya/bin/Debug/Katya.exe
+/Users/nikolaysafonov/Desktop/прога/seminar3/Katya/bin/Debug/Katya.pdb
+/Users/nikolaysafonov/Desktop/прога/seminar3/Katya/obj/Debug/Katya.csprojResolveAssemblyReference.cache
+/Users/nikolaysafonov/Desktop/прога/seminar3/Katya/obj/Debug/Katya.csproj.CoreCompileInputs.cache
+/Users/nikolaysafonov/Desktop/прога/seminar3/Katya/obj/Debug/Katya.exe
+/Users/nikolaysafonov/Desktop/прога/seminar3/Katya/obj/Debug/Katya.pdb

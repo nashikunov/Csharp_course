@@ -1,0 +1,1 @@
+/Users/nikolaysafonov/Desktop/прога/hw/obj/Debug/hw.csproj.CoreCompileInputs.cache

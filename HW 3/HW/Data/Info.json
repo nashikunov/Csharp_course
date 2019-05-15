@@ -1,0 +1,216 @@
+﻿{
+  "Stations": [
+    {
+      "StationJsonId": 1,
+      "Name": "Library"
+    },
+    {
+      "StationJsonId": 2,
+      "Name": "Bank"
+    },
+    {
+      "StationJsonId": 3,
+      "Name": "School"
+    },
+    {
+      "StationJsonId": 4,
+      "Name": "Shop"
+    },
+    {
+      "StationJsonId": 5,
+      "Name": "Stadium"
+    },
+    {
+      "StationJsonId": 6,
+      "Name": "Park"
+    },
+    {
+      "StationJsonId": 7,
+      "Name": "Factory"
+    },
+    {
+      "StationJsonId": 8,
+      "Name": "Police Station"
+    },
+    {
+      "StationJsonId": 9,
+      "Name": "Airport"
+    }
+  ],
+  "Routes": [
+    {
+      "Name": "395",
+      "Start": "2018-01-02T05:00:00",
+      "Finish": "2018-01-03T01:00:00",
+      "Interval": 5,
+      "Stations": [
+        {
+          "StationJsonId": 1,
+          "TimeFromBeg": 0,
+          "TimeFromFin": 19
+        },
+        {
+          "StationJsonId": 2,
+          "TimeFromBeg": 5,
+          "TimeFromFin": 14
+        },
+        {
+          "StationJsonId": 3,
+          "TimeFromBeg": 8,
+          "TimeFromFin": 11
+        },
+        {
+          "StationJsonId": 4,
+          "TimeFromBeg": 12,
+          "TimeFromFin": 7
+        },
+        {
+          "StationJsonId": 5,
+          "TimeFromBeg": 19,
+          "TimeFromFin": 0
+        }
+      ]
+    },
+    {
+      "Name": "240",
+      "Start": "2018-01-02T05:10:00",
+      "Finish": "2018-01-03T01:10:00",
+      "Interval": 8,
+      "Stations": [
+        {
+          "StationJsonId": 6,
+          "TimeFromBeg": 0,
+          "TimeFromFin": 19
+        },
+        {
+          "StationJsonId": 1,
+          "TimeFromBeg": 6,
+          "TimeFromFin": 13
+        },
+        {
+          "StationJsonId": 2,
+          "TimeFromBeg": 8,
+          "TimeFromFin": 11
+        },
+        {
+          "StationJsonId": 7,
+          "TimeFromBeg": 11,
+          "TimeFromFin": 8
+        },
+        {
+          "StationJsonId": 8,
+          "TimeFromBeg": 19,
+          "TimeFromFin": 0
+        }
+      ]
+    },
+    {
+      "Name": "605",
+      "Start": "2018-01-02T06:00:00",
+      "Finish": "2018-01-03T02:00:00",
+      "Interval": 10,
+      "Stations": [
+        {
+          "StationJsonId": 2,
+          "TimeFromBeg": 31,
+          "TimeFromFin": 0
+        },
+        {
+          "StationJsonId": 7,
+          "TimeFromBeg": 25,
+          "TimeFromFin": 6
+        },
+        {
+          "StationJsonId": 8,
+          "TimeFromBeg": 23,
+          "TimeFromFin": 8
+        },
+        {
+          "StationJsonId": 3,
+          "TimeFromBeg": 18,
+          "TimeFromFin": 13
+        },
+        {
+          "StationJsonId": 4,
+          "TimeFromBeg": 11,
+          "TimeFromFin": 20
+        },
+        {
+          "StationJsonId": 5,
+          "TimeFromBeg": 6,
+          "TimeFromFin": 25
+        },
+        {
+          "StationJsonId": 9,
+          "TimeFromBeg": 0,
+          "TimeFromFin": 31
+        }
+
+      ]
+
+    },
+    {
+      "Name": "98",
+      "Start": "2018-01-02T04:20:00",
+      "Finish": "2018-01-03T03:15:00",
+      "Interval": 15,
+      "Stations": [
+        {
+          "StationJsonId": 1,
+          "TimeFromBeg": 0,
+          "TimeFromFin": 23
+        },
+        {
+          "StationJsonId": 6,
+          "TimeFromBeg": 3,
+          "TimeFromFin": 20
+        },
+        {
+          "StationJsonId": 9,
+          "TimeFromBeg": 8,
+          "TimeFromFin": 15
+        },
+        {
+          "StationJsonId": 5,
+          "TimeFromBeg": 12,
+          "TimeFromFin": 11
+        },
+        {
+          "StationJsonId": 8,
+          "TimeFromBeg": 15,
+          "TimeFromFin": 8
+        },
+        {
+          "StationJsonId": 7,
+          "TimeFromBeg": 23,
+          "TimeFromFin": 0
+        }
+      ]
+
+    }
+
+  ],
+  "Users": [
+    {
+      "Id": 1,
+      "Name": "Sergey Efremov",
+      "Login": "sergefr",
+      "Password": "gdyb21LQTcIANtvYMT7QVQ==",
+      "Favourites": [
+        {
+          "StationJsonId": 7,
+          "Description": "My Home"
+        },
+        {
+          "StationJsonId": 9,
+          "Description": "Nike shop"
+        },
+        {
+          "StationJsonId": 2,
+          "Description": "Mark's place"
+        }
+
+      ]
+    }
+  ]
+}

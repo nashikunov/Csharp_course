@@ -1,0 +1,881 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5015ca98-829a-413f-bb5d-7b0d41778524" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HomeWork/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="12" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="360" selection-end-column="2" />
+              <folding>
+                <marker date="1519936119000" expanded="true" signature="7:65" ph="..." />
+                <marker date="1519936119000" expanded="true" signature="86:11656" ph="{...}" />
+                <marker date="1519936119000" expanded="true" signature="115:11654" ph="{...}" />
+                <marker date="1519936119000" expanded="true" signature="180:955" ph="{...}" />
+                <marker date="1519936119000" expanded="true" signature="1071:3800" ph="{...}" />
+                <marker date="1519936119000" expanded="true" signature="1145:3790" ph="{...}" />
+                <marker date="1519936119000" expanded="true" signature="1364:1871" ph="{...}" />
+                <marker date="1519936119000" expanded="true" signature="1528:1815" ph="{...}" />
+                <marker date="1519936119000" expanded="true" signature="2029:2703" ph="{...}" />
+                <marker date="1519936119000" expanded="true" signature="2271:2459" ph="{...}" />
+                <marker date="1519936119000" expanded="true" signature="2521:2647" ph="{...}" />
+                <marker date="1519936119000" expanded="true" signature="2863:3776" ph="{...}" />
+                <marker date="1519936119000" expanded="true" signature="3320:3509" ph="{...}" />
+                <marker date="1519936119000" expanded="true" signature="3572:3718" ph="{...}" />
+                <marker date="1519936119000" expanded="true" signature="3866:4087" ph="{...}" />
+                <marker date="1519936119000" expanded="true" signature="4168:4392" ph="{...}" />
+                <marker date="1519936119000" expanded="true" signature="4487:5676" ph="{...}" />
+                <marker date="1519936119000" expanded="true" signature="4608:4681" ph="{...}" />
+                <marker date="1519936119000" expanded="true" signature="5006:5157" ph="{...}" />
+                <marker date="1519936119000" expanded="true" signature="5254:5485" ph="{...}" />
+                <marker date="1519936119000" expanded="true" signature="5506:5573" ph="{...}" />
+                <marker date="1519936119000" expanded="true" signature="5781:6989" ph="{...}" />
+                <marker date="1519936119000" expanded="true" signature="5921:5994" ph="{...}" />
+                <marker date="1519936119000" expanded="true" signature="6319:6470" ph="{...}" />
+                <marker date="1519936119000" expanded="true" signature="6567:6798" ph="{...}" />
+                <marker date="1519936119000" expanded="true" signature="6819:6886" ph="{...}" />
+                <marker date="1519936119000" expanded="true" signature="7111:8600" ph="{...}" />
+                <marker date="1519936119000" expanded="true" signature="7307:8533" ph="{...}" />
+                <marker date="1519936119000" expanded="true" signature="7689:7772" ph="/* Table.Add(minutes1destination); ... */" />
+                <marker date="1519936119000" expanded="true" signature="7827:7979" ph="{...}" />
+                <marker date="1519936119000" expanded="true" signature="8175:8328" ph="{...}" />
+                <marker date="1519936119000" expanded="true" signature="8675:9346" ph="{...}" />
+                <marker date="1519936119000" expanded="true" signature="8823:9304" ph="{...}" />
+                <marker date="1519936119000" expanded="true" signature="8874:9039" ph="{...}" />
+                <marker date="1519936119000" expanded="true" signature="9060:9172" ph="{...}" />
+                <marker date="1519936119000" expanded="true" signature="9456:10813" ph="{...}" />
+                <marker date="1519936119000" expanded="true" signature="9517:10803" ph="{...}" />
+                <marker date="1519936119000" expanded="true" signature="9593:10773" ph="{...}" />
+                <marker date="1519936119000" expanded="true" signature="9663:10734" ph="{...}" />
+                <marker date="1519936119000" expanded="true" signature="9877:10244" ph="{...}" />
+                <marker date="1519936119000" expanded="true" signature="10382:10710" ph="{...}" />
+                <marker date="1519936119000" expanded="true" signature="10897:11637" ph="{...}" />
+                <marker date="1519936119000" expanded="true" signature="11055:11512" ph="{...}" />
+                <marker date="1519936119000" expanded="true" signature="11187:11248" ph="{...}" />
+                <marker date="1519936119000" expanded="true" signature="11350:11449" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Route.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HomeWork/Route.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding>
+                <marker date="1519763680000" expanded="true" signature="7:48" ph="..." />
+                <marker date="1519763680000" expanded="true" signature="69:239" ph="{...}" />
+                <marker date="1519763680000" expanded="true" signature="94:237" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Stops.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HomeWork/Stops.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="8" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="1" />
+              <folding>
+                <marker date="1519468006000" expanded="true" signature="6:47" ph="..." />
+                <marker date="1519468006000" expanded="true" signature="67:209" ph="{...}" />
+                <marker date="1519468006000" expanded="true" signature="92:207" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Table.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HomeWork/Table.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="1" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="1" />
+              <folding>
+                <marker date="1519763702000" expanded="true" signature="18:207" ph="{...}" />
+                <marker date="1519763702000" expanded="true" signature="43:191" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Bus.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/HomeWork/Bus.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="51" selection-end-column="1" />
+              <folding>
+                <marker date="1519417679000" expanded="true" signature="36:1206" ph="{...}" />
+                <marker date="1519417679000" expanded="true" signature="59:1204" ph="{...}" />
+                <marker date="1519417679000" expanded="true" signature="283:1197" ph="/* private int? interval; ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>from</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/HomeWork/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WorldCup2018schedule/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Katya/Way.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Katya/Distance.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Katya/Path.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WorldCup/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Katya/Stop.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Katya/Bus.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WorldCup/Team.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/seminar3.2/Program.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/WorldCup/Match.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Katya/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WorldCup/Stadium.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HomeWork/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HomeWork/Bus.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HomeWork/Route.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OnlineBank/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/seminar3/Employee.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/hw/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HomeWork/Stops.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OnlineBank/BankClient.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/hw/Bus.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OnlineBank/BankAccount.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HomeWork/Table.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/seminar3/Program.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/seminar3/Employee.cs" />
+        <option value="$PROJECT_DIR$/seminar3/Program.cs" />
+        <option value="$PROJECT_DIR$/seminar3.2/Program.cs" />
+        <option value="$PROJECT_DIR$/OnlineBank/BankClient.cs" />
+        <option value="$PROJECT_DIR$/OnlineBank/BankAccount.cs" />
+        <option value="$PROJECT_DIR$/OnlineBank/Program.cs" />
+        <option value="$PROJECT_DIR$/../hw/Program.cs" />
+        <option value="$PROJECT_DIR$/WorldCup2018schedule/Program.cs" />
+        <option value="$PROJECT_DIR$/WorldCup/Player.cs" />
+        <option value="$PROJECT_DIR$/../hw/Bus.cs" />
+        <option value="$PROJECT_DIR$/WorldCup/matches.txt" />
+        <option value="$PROJECT_DIR$/WorldCup/Stadium.cs" />
+        <option value="$PROJECT_DIR$/WorldCup/Team.cs" />
+        <option value="$PROJECT_DIR$/WorldCup/Match.cs" />
+        <option value="$PROJECT_DIR$/hw/Bus.cs" />
+        <option value="$PROJECT_DIR$/WorldCup/Program.cs" />
+        <option value="$PROJECT_DIR$/HomeWork/Stops.cs" />
+        <option value="$PROJECT_DIR$/HomeWork/Routes.txt" />
+        <option value="$PROJECT_DIR$/HomeWork/Bus.cs" />
+        <option value="$PROJECT_DIR$/HomeWork/Route.cs" />
+        <option value="$PROJECT_DIR$/HomeWork/Table.cs" />
+        <option value="$PROJECT_DIR$/Katya/Bus.cs" />
+        <option value="$PROJECT_DIR$/Katya/Stop.cs" />
+        <option value="$PROJECT_DIR$/Katya/Path.cs" />
+        <option value="$PROJECT_DIR$/Katya/Distance.cs" />
+        <option value="$PROJECT_DIR$/Katya/Way.cs" />
+        <option value="$PROJECT_DIR$/Katya/Program.cs" />
+        <option value="$PROJECT_DIR$/HomeWork/Program.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="seminar3 (5 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="seminar3 (5 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="HomeWork" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Project.HomeWork">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/seminar3/bin/Debug/seminar3.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/seminar3/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/seminar3/seminar3.csproj" />
+      <option name="PROJECT_OUTPUT_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.5" />
+    </configuration>
+    <configuration name="HomeWork" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/HomeWork/bin/Debug/HomeWork.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HomeWork/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/HomeWork/HomeWork.csproj" />
+      <option name="PROJECT_OUTPUT_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.5" />
+    </configuration>
+    <configuration name="Katya" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Katya/bin/Debug/Katya.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Katya/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Katya/Katya.csproj" />
+      <option name="PROJECT_OUTPUT_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.5" />
+    </configuration>
+    <configuration name="OnlineBank" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/OnlineBank/bin/Debug/OnlineBank.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OnlineBank/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/OnlineBank/OnlineBank.csproj" />
+      <option name="PROJECT_OUTPUT_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.5" />
+    </configuration>
+    <configuration name="WorldCup" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/WorldCup/bin/Debug/WorldCup.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WorldCup/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/WorldCup/WorldCup.csproj" />
+      <option name="PROJECT_OUTPUT_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.5" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue=".NET Project.Default" />
+      <item index="1" class="java.lang.String" itemvalue=".NET Project.OnlineBank" />
+      <item index="2" class="java.lang.String" itemvalue=".NET Project.WorldCup" />
+      <item index="3" class="java.lang.String" itemvalue=".NET Project.HomeWork" />
+      <item index="4" class="java.lang.String" itemvalue=".NET Project.Katya" />
+    </list>
+    <recent_temporary>
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue=".NET Project.HomeWork" />
+        <item index="1" class="java.lang.String" itemvalue=".NET Project.Katya" />
+        <item index="2" class="java.lang.String" itemvalue=".NET Project.WorldCup" />
+        <item index="3" class="java.lang.String" itemvalue=".NET Project.OnlineBank" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5015ca98-829a-413f-bb5d-7b0d41778524" name="Default" comment="" />
+      <created>1517557439274</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1517557439274</updated>
+      <workItem from="1517557441637" duration="8359000" />
+      <workItem from="1517933627713" duration="1214000" />
+      <workItem from="1518025828541" duration="606000" />
+      <workItem from="1518167913051" duration="9952000" />
+      <workItem from="1518193687788" duration="356000" />
+      <workItem from="1518696876907" duration="14677000" />
+      <workItem from="1518804391137" duration="598000" />
+      <workItem from="1518867381389" duration="374000" />
+      <workItem from="1519112333249" duration="2118000" />
+      <workItem from="1519114888111" duration="376000" />
+      <workItem from="1519149995042" duration="133000" />
+      <workItem from="1519150282010" duration="6000" />
+      <workItem from="1519150292707" duration="183000" />
+      <workItem from="1519296321481" duration="1684000" />
+      <workItem from="1519299444026" duration="1613000" />
+      <workItem from="1519405381963" duration="11495000" />
+      <workItem from="1519467998528" duration="7958000" />
+      <workItem from="1519498102756" duration="350000" />
+      <workItem from="1519508432684" duration="329000" />
+      <workItem from="1519650861884" duration="4346000" />
+      <workItem from="1519762320983" duration="1814000" />
+      <workItem from="1519764142994" duration="124000" />
+      <workItem from="1519764290290" duration="2587000" />
+      <workItem from="1519814765913" duration="6018000" />
+      <workItem from="1519828547561" duration="12000" />
+      <workItem from="1519839591375" duration="2439000" />
+      <workItem from="1519930301961" duration="1657000" />
+      <workItem from="1519934591588" duration="1841000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="83219000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39903265" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="4" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/OnlineBank/BankAccount.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="8" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WorldCup/matches.txt" />
+    <entry file="file://$PROJECT_DIR$/WorldCup/Match.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="8" lean-forward="false" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WorldCup/Stadium.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="21" lean-forward="false" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WorldCup/Team.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="21" lean-forward="false" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WorldCup/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="63" column="58" lean-forward="true" selection-start-line="63" selection-start-column="58" selection-end-line="63" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OnlineBank/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OnlineBank/BankClient.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="16" column="1" lean-forward="false" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OnlineBank/BankAccount.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="8" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OnlineBank/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" column="17" lean-forward="false" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OnlineBank/BankClient.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="1" lean-forward="false" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OnlineBank/BankAccount.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="8" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seminar3/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="44" column="23" lean-forward="false" selection-start-line="44" selection-start-column="23" selection-end-line="44" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seminar3/Employee.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="1" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seminar3.2/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="10" column="42" lean-forward="false" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seminar3/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="44" column="23" lean-forward="true" selection-start-line="44" selection-start-column="23" selection-end-line="44" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seminar3/Employee.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="1" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seminar3.2/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="10" column="42" lean-forward="false" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seminar3/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="38" lean-forward="false" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seminar3/Employee.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="1" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seminar3.2/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="10" column="42" lean-forward="true" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WorldCup2018schedule/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="8" column="9" lean-forward="false" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WorldCup/Player.cs" />
+    <entry file="file://$PROJECT_DIR$/../hw/Bus.cs" />
+    <entry file="file://$PROJECT_DIR$/../hw/Program.cs" />
+    <entry file="file://$PROJECT_DIR$/WorldCup/matches.txt" />
+    <entry file="file://$PROJECT_DIR$/seminar3.2/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="3" column="10" lean-forward="false" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw/Bus.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="14" column="19" lean-forward="false" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OnlineBank/BankAccount.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="8" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OnlineBank/BankClient.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seminar3/Employee.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seminar3/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="52" lean-forward="false" selection-start-line="2" selection-start-column="52" selection-end-line="2" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HomeWork/Routes.txt" />
+    <entry file="file://$PROJECT_DIR$/WorldCup/Match.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HomeWork/Properties/AssemblyInfo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OnlineBank/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1290">
+          <caret line="90" column="45" lean-forward="false" selection-start-line="90" selection-start-column="45" selection-end-line="90" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WorldCup/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="49" column="22" lean-forward="false" selection-start-line="49" selection-start-column="22" selection-end-line="49" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WorldCup/Stadium.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WorldCup/Team.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="1" lean-forward="false" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Katya/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-263">
+          <caret line="139" column="21" lean-forward="false" selection-start-line="139" selection-start-column="21" selection-end-line="139" selection-end-column="21" />
+          <folding>
+            <marker date="1519930313000" expanded="true" signature="6:132" ph="..." />
+            <marker date="1519930313000" expanded="true" signature="149:6447" ph="{...}" />
+            <marker date="1519930313000" expanded="true" signature="169:6445" ph="{...}" />
+            <marker date="1519930313000" expanded="true" signature="329:4705" ph="{...}" />
+            <marker date="1519930313000" expanded="true" signature="352:540" ph="/* buses = new List&lt;Bus&gt;(); ... */" />
+            <marker date="1519930313000" expanded="true" signature="606:4695" ph="{...}" />
+            <marker date="1519930313000" expanded="true" signature="869:1206" ph="{...}" />
+            <marker date="1519930313000" expanded="true" signature="1033:1151" ph="{...}" />
+            <marker date="1519930313000" expanded="true" signature="1400:1739" ph="{...}" />
+            <marker date="1519930313000" expanded="true" signature="1566:1683" ph="{...}" />
+            <marker date="1519930313000" expanded="true" signature="1932:2294" ph="{...}" />
+            <marker date="1519930313000" expanded="true" signature="2106:2230" ph="{...}" />
+            <marker date="1519930313000" expanded="true" signature="2477:3102" ph="{...}" />
+            <marker date="1519930313000" expanded="true" signature="2701:2831" ph="{...}" />
+            <marker date="1519930313000" expanded="true" signature="2890:3048" ph="{...}" />
+            <marker date="1519930313000" expanded="true" signature="3288:4681" ph="{...}" />
+            <marker date="1519930313000" expanded="true" signature="3642:3773" ph="{...}" />
+            <marker date="1519930313000" expanded="true" signature="3836:4222" ph="{...}" />
+            <marker date="1519930313000" expanded="true" signature="4373:4469" ph="{...}" />
+            <marker date="1519930313000" expanded="true" signature="4525:4621" ph="{...}" />
+            <marker date="1519930313000" expanded="true" signature="4785:5179" ph="{...}" />
+            <marker date="1519930313000" expanded="true" signature="4892:5140" ph="{...}" />
+            <marker date="1519930313000" expanded="true" signature="5235:5457" ph="{...}" />
+            <marker date="1519930313000" expanded="true" signature="5523:5762" ph="{...}" />
+            <marker date="1519930313000" expanded="true" signature="5840:6256" ph="{...}" />
+            <marker date="1519930313000" expanded="true" signature="5965:6213" ph="{...}" />
+            <marker date="1519930313000" expanded="true" signature="6325:6439" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Katya/Way.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="15" lean-forward="false" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+          <folding>
+            <marker date="1519930313000" expanded="true" signature="6:115" ph="..." />
+            <marker date="1519930313000" expanded="true" signature="132:246" ph="{...}" />
+            <marker date="1519930313000" expanded="true" signature="148:244" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Katya/Bus.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="15" lean-forward="false" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+          <folding>
+            <marker date="1519930313000" expanded="true" signature="6:115" ph="..." />
+            <marker date="1519930313000" expanded="true" signature="148:243" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Katya/Stop.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="15" lean-forward="false" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+          <folding>
+            <marker date="1519930313000" expanded="true" signature="6:115" ph="..." />
+            <marker date="1519930313000" expanded="true" signature="149:243" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Katya/Path.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="6" column="15" lean-forward="false" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+          <folding>
+            <marker date="1519930313000" expanded="false" signature="6:115" ph="..." />
+            <marker date="1519930313000" expanded="true" signature="132:432" ph="{...}" />
+            <marker date="1519930313000" expanded="true" signature="149:430" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Katya/Distance.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="6" column="15" lean-forward="false" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+          <folding>
+            <marker date="1519930313000" expanded="false" signature="6:115" ph="..." />
+            <marker date="1519930313000" expanded="true" signature="132:242" ph="{...}" />
+            <marker date="1519930313000" expanded="true" signature="153:240" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HomeWork/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="12" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="360" selection-end-column="2" />
+          <folding>
+            <marker date="1519936119000" expanded="true" signature="7:65" ph="..." />
+            <marker date="1519936119000" expanded="true" signature="86:11656" ph="{...}" />
+            <marker date="1519936119000" expanded="true" signature="115:11654" ph="{...}" />
+            <marker date="1519936119000" expanded="true" signature="180:955" ph="{...}" />
+            <marker date="1519936119000" expanded="true" signature="1071:3800" ph="{...}" />
+            <marker date="1519936119000" expanded="true" signature="1145:3790" ph="{...}" />
+            <marker date="1519936119000" expanded="true" signature="1364:1871" ph="{...}" />
+            <marker date="1519936119000" expanded="true" signature="1528:1815" ph="{...}" />
+            <marker date="1519936119000" expanded="true" signature="2029:2703" ph="{...}" />
+            <marker date="1519936119000" expanded="true" signature="2271:2459" ph="{...}" />
+            <marker date="1519936119000" expanded="true" signature="2521:2647" ph="{...}" />
+            <marker date="1519936119000" expanded="true" signature="2863:3776" ph="{...}" />
+            <marker date="1519936119000" expanded="true" signature="3320:3509" ph="{...}" />
+            <marker date="1519936119000" expanded="true" signature="3572:3718" ph="{...}" />
+            <marker date="1519936119000" expanded="true" signature="3866:4087" ph="{...}" />
+            <marker date="1519936119000" expanded="true" signature="4168:4392" ph="{...}" />
+            <marker date="1519936119000" expanded="true" signature="4487:5676" ph="{...}" />
+            <marker date="1519936119000" expanded="true" signature="4608:4681" ph="{...}" />
+            <marker date="1519936119000" expanded="true" signature="5006:5157" ph="{...}" />
+            <marker date="1519936119000" expanded="true" signature="5254:5485" ph="{...}" />
+            <marker date="1519936119000" expanded="true" signature="5506:5573" ph="{...}" />
+            <marker date="1519936119000" expanded="true" signature="5781:6989" ph="{...}" />
+            <marker date="1519936119000" expanded="true" signature="5921:5994" ph="{...}" />
+            <marker date="1519936119000" expanded="true" signature="6319:6470" ph="{...}" />
+            <marker date="1519936119000" expanded="true" signature="6567:6798" ph="{...}" />
+            <marker date="1519936119000" expanded="true" signature="6819:6886" ph="{...}" />
+            <marker date="1519936119000" expanded="true" signature="7111:8600" ph="{...}" />
+            <marker date="1519936119000" expanded="true" signature="7307:8533" ph="{...}" />
+            <marker date="1519936119000" expanded="true" signature="7689:7772" ph="/* Table.Add(minutes1destination); ... */" />
+            <marker date="1519936119000" expanded="true" signature="7827:7979" ph="{...}" />
+            <marker date="1519936119000" expanded="true" signature="8175:8328" ph="{...}" />
+            <marker date="1519936119000" expanded="true" signature="8675:9346" ph="{...}" />
+            <marker date="1519936119000" expanded="true" signature="8823:9304" ph="{...}" />
+            <marker date="1519936119000" expanded="true" signature="8874:9039" ph="{...}" />
+            <marker date="1519936119000" expanded="true" signature="9060:9172" ph="{...}" />
+            <marker date="1519936119000" expanded="true" signature="9456:10813" ph="{...}" />
+            <marker date="1519936119000" expanded="true" signature="9517:10803" ph="{...}" />
+            <marker date="1519936119000" expanded="true" signature="9593:10773" ph="{...}" />
+            <marker date="1519936119000" expanded="true" signature="9663:10734" ph="{...}" />
+            <marker date="1519936119000" expanded="true" signature="9877:10244" ph="{...}" />
+            <marker date="1519936119000" expanded="true" signature="10382:10710" ph="{...}" />
+            <marker date="1519936119000" expanded="true" signature="10897:11637" ph="{...}" />
+            <marker date="1519936119000" expanded="true" signature="11055:11512" ph="{...}" />
+            <marker date="1519936119000" expanded="true" signature="11187:11248" ph="{...}" />
+            <marker date="1519936119000" expanded="true" signature="11350:11449" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HomeWork/Route.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding>
+            <marker date="1519763680000" expanded="true" signature="7:48" ph="..." />
+            <marker date="1519763680000" expanded="true" signature="69:239" ph="{...}" />
+            <marker date="1519763680000" expanded="true" signature="94:237" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HomeWork/Stops.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="8" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="1" />
+          <folding>
+            <marker date="1519468006000" expanded="true" signature="6:47" ph="..." />
+            <marker date="1519468006000" expanded="true" signature="67:209" ph="{...}" />
+            <marker date="1519468006000" expanded="true" signature="92:207" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HomeWork/Table.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="1" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="1" />
+          <folding>
+            <marker date="1519763702000" expanded="true" signature="18:207" ph="{...}" />
+            <marker date="1519763702000" expanded="true" signature="43:191" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HomeWork/Bus.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="51" selection-end-column="1" />
+          <folding>
+            <marker date="1519417679000" expanded="true" signature="36:1206" ph="{...}" />
+            <marker date="1519417679000" expanded="true" signature="59:1204" ph="{...}" />
+            <marker date="1519417679000" expanded="true" signature="283:1197" ph="/* private int? interval; ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,16 @@
+C:\Users\A001\Desktop\HW\TransportApp\bin\Debug\TransportApp.dll
+C:\Users\A001\Desktop\HW\TransportApp\bin\Debug\TransportApp.pdb
+C:\Users\A001\Desktop\HW\TransportApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\A001\Desktop\HW\TransportApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\A001\Desktop\HW\TransportApp\obj\Debug\TransportApp.csprojResolveAssemblyReference.cache
+C:\Users\A001\Desktop\HW\TransportApp\obj\Debug\TransportApp.csproj.CoreCompileInputs.cache
+C:\Users\A001\Desktop\HW\TransportApp\obj\Debug\TransportApp.dll
+C:\Users\A001\Desktop\HW\TransportApp\obj\Debug\TransportApp.pdb
+\\Mac\Home\Desktop\HW\TransportApp\bin\Debug\TransportApp.dll
+\\Mac\Home\Desktop\HW\TransportApp\bin\Debug\TransportApp.pdb
+\\Mac\Home\Desktop\HW\TransportApp\bin\Debug\Newtonsoft.Json.dll
+\\Mac\Home\Desktop\HW\TransportApp\bin\Debug\Newtonsoft.Json.xml
+\\Mac\Home\Desktop\HW\TransportApp\obj\Debug\TransportApp.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\HW\TransportApp\obj\Debug\TransportApp.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\HW\TransportApp\obj\Debug\TransportApp.dll
+\\Mac\Home\Desktop\HW\TransportApp\obj\Debug\TransportApp.pdb

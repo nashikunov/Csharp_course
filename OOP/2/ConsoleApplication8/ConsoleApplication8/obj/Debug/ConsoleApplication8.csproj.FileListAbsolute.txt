@@ -1,0 +1,6 @@
+/Users/nikolaysafonov/Desktop/прога/ConsoleApplication8/ConsoleApplication8/bin/Debug/ConsoleApplication8.exe
+/Users/nikolaysafonov/Desktop/прога/ConsoleApplication8/ConsoleApplication8/bin/Debug/ConsoleApplication8.pdb
+/Users/nikolaysafonov/Desktop/прога/ConsoleApplication8/ConsoleApplication8/obj/Debug/ConsoleApplication8.csprojResolveAssemblyReference.cache
+/Users/nikolaysafonov/Desktop/прога/ConsoleApplication8/ConsoleApplication8/obj/Debug/ConsoleApplication8.csproj.CoreCompileInputs.cache
+/Users/nikolaysafonov/Desktop/прога/ConsoleApplication8/ConsoleApplication8/obj/Debug/ConsoleApplication8.exe
+/Users/nikolaysafonov/Desktop/прога/ConsoleApplication8/ConsoleApplication8/obj/Debug/ConsoleApplication8.pdb

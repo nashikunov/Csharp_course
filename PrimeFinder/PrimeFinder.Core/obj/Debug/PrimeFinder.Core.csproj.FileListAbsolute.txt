@@ -1,0 +1,6 @@
+\\Mac\Home\Desktop\PrimeFinder\PrimeFinder.Core\bin\Debug\PrimeFinder.Core.dll
+\\Mac\Home\Desktop\PrimeFinder\PrimeFinder.Core\bin\Debug\PrimeFinder.Core.pdb
+\\Mac\Home\Desktop\PrimeFinder\PrimeFinder.Core\obj\Debug\PrimeFinder.Core.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\PrimeFinder\PrimeFinder.Core\obj\Debug\PrimeFinder.Core.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\PrimeFinder\PrimeFinder.Core\obj\Debug\PrimeFinder.Core.dll
+\\Mac\Home\Desktop\PrimeFinder\PrimeFinder.Core\obj\Debug\PrimeFinder.Core.pdb

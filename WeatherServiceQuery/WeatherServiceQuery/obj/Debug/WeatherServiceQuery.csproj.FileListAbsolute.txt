@@ -1,0 +1,9 @@
+\\Mac\Home\Desktop\WeatherServiceQuery\WeatherServiceQuery\bin\Debug\WeatherServiceQuery.exe.config
+\\Mac\Home\Desktop\WeatherServiceQuery\WeatherServiceQuery\bin\Debug\WeatherServiceQuery.exe
+\\Mac\Home\Desktop\WeatherServiceQuery\WeatherServiceQuery\bin\Debug\WeatherServiceQuery.pdb
+\\Mac\Home\Desktop\WeatherServiceQuery\WeatherServiceQuery\bin\Debug\Newtonsoft.Json.dll
+\\Mac\Home\Desktop\WeatherServiceQuery\WeatherServiceQuery\bin\Debug\Newtonsoft.Json.xml
+\\Mac\Home\Desktop\WeatherServiceQuery\WeatherServiceQuery\obj\Debug\WeatherServiceQuery.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\WeatherServiceQuery\WeatherServiceQuery\obj\Debug\WeatherServiceQuery.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\WeatherServiceQuery\WeatherServiceQuery\obj\Debug\WeatherServiceQuery.exe
+\\Mac\Home\Desktop\WeatherServiceQuery\WeatherServiceQuery\obj\Debug\WeatherServiceQuery.pdb

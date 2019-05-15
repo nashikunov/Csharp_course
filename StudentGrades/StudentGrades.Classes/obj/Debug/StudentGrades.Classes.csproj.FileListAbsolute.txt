@@ -1,0 +1,6 @@
+\\Mac\Home\Desktop\StudentGrades\StudentGrades.Classes\bin\Debug\StudentGrades.Classes.dll
+\\Mac\Home\Desktop\StudentGrades\StudentGrades.Classes\bin\Debug\StudentGrades.Classes.pdb
+\\Mac\Home\Desktop\StudentGrades\StudentGrades.Classes\obj\Debug\StudentGrades.Classes.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\StudentGrades\StudentGrades.Classes\obj\Debug\StudentGrades.Classes.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\StudentGrades\StudentGrades.Classes\obj\Debug\StudentGrades.Classes.dll
+\\Mac\Home\Desktop\StudentGrades\StudentGrades.Classes\obj\Debug\StudentGrades.Classes.pdb

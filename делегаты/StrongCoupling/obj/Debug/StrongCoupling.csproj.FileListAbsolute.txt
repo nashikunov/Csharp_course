@@ -1,0 +1,17 @@
+\\Mac\Home\Desktop\ComponentInteraction\StrongCoupling\bin\Debug\StrongCoupling.exe.config
+\\Mac\Home\Desktop\ComponentInteraction\StrongCoupling\bin\Debug\StrongCoupling.exe
+\\Mac\Home\Desktop\ComponentInteraction\StrongCoupling\bin\Debug\StrongCoupling.pdb
+\\Mac\Home\Desktop\ComponentInteraction\StrongCoupling\obj\Debug\StrongCoupling.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\ComponentInteraction\StrongCoupling\obj\Debug\ButtonWindow.g.cs
+\\Mac\Home\Desktop\ComponentInteraction\StrongCoupling\obj\Debug\MainWindow.g.cs
+\\Mac\Home\Desktop\ComponentInteraction\StrongCoupling\obj\Debug\App.g.cs
+\\Mac\Home\Desktop\ComponentInteraction\StrongCoupling\obj\Debug\StrongCoupling_MarkupCompile.cache
+\\Mac\Home\Desktop\ComponentInteraction\StrongCoupling\obj\Debug\StrongCoupling_MarkupCompile.lref
+\\Mac\Home\Desktop\ComponentInteraction\StrongCoupling\obj\Debug\ButtonWindow.baml
+\\Mac\Home\Desktop\ComponentInteraction\StrongCoupling\obj\Debug\MainWindow.baml
+\\Mac\Home\Desktop\ComponentInteraction\StrongCoupling\obj\Debug\StrongCoupling.g.resources
+\\Mac\Home\Desktop\ComponentInteraction\StrongCoupling\obj\Debug\StrongCoupling.Properties.Resources.resources
+\\Mac\Home\Desktop\ComponentInteraction\StrongCoupling\obj\Debug\StrongCoupling.csproj.GenerateResource.Cache
+\\Mac\Home\Desktop\ComponentInteraction\StrongCoupling\obj\Debug\StrongCoupling.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\ComponentInteraction\StrongCoupling\obj\Debug\StrongCoupling.exe
+\\Mac\Home\Desktop\ComponentInteraction\StrongCoupling\obj\Debug\StrongCoupling.pdb

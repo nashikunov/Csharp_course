@@ -1,0 +1,6 @@
+/Users/nikolaysafonov/Desktop/прога/seminar3/WorldCup/bin/Debug/WorldCup.exe
+/Users/nikolaysafonov/Desktop/прога/seminar3/WorldCup/bin/Debug/WorldCup.pdb
+/Users/nikolaysafonov/Desktop/прога/seminar3/WorldCup/obj/Debug/WorldCup.csprojResolveAssemblyReference.cache
+/Users/nikolaysafonov/Desktop/прога/seminar3/WorldCup/obj/Debug/WorldCup.csproj.CoreCompileInputs.cache
+/Users/nikolaysafonov/Desktop/прога/seminar3/WorldCup/obj/Debug/WorldCup.exe
+/Users/nikolaysafonov/Desktop/прога/seminar3/WorldCup/obj/Debug/WorldCup.pdb

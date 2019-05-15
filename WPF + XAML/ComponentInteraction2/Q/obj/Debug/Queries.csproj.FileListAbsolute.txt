@@ -1,0 +1,18 @@
+\\Mac\Home\Desktop\прога\ComponentInteraction\Q\bin\Debug\Q.exe.config
+\\Mac\Home\Desktop\прога\ComponentInteraction\Q\bin\Debug\Q.exe
+\\Mac\Home\Desktop\прога\ComponentInteraction\Q\bin\Debug\Q.pdb
+\\Mac\Home\Desktop\прога\ComponentInteraction\Q\bin\Debug\Newtonsoft.Json.dll
+\\Mac\Home\Desktop\прога\ComponentInteraction\Q\bin\Debug\Newtonsoft.Json.xml
+\\Mac\Home\Desktop\прога\ComponentInteraction\Q\obj\Debug\Queries.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\прога\ComponentInteraction\Q\obj\Debug\Queries.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\прога\ComponentInteraction\Q\obj\Debug\Q.exe
+\\Mac\Home\Desktop\прога\ComponentInteraction\Q\obj\Debug\Q.pdb
+\\Mac\Home\Desktop\прога\WPF + XAML\ComponentInteraction2\Q\bin\Debug\Q.exe.config
+\\Mac\Home\Desktop\прога\WPF + XAML\ComponentInteraction2\Q\bin\Debug\Q.exe
+\\Mac\Home\Desktop\прога\WPF + XAML\ComponentInteraction2\Q\bin\Debug\Q.pdb
+\\Mac\Home\Desktop\прога\WPF + XAML\ComponentInteraction2\Q\bin\Debug\Newtonsoft.Json.dll
+\\Mac\Home\Desktop\прога\WPF + XAML\ComponentInteraction2\Q\bin\Debug\Newtonsoft.Json.xml
+\\Mac\Home\Desktop\прога\WPF + XAML\ComponentInteraction2\Q\obj\Debug\Queries.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\прога\WPF + XAML\ComponentInteraction2\Q\obj\Debug\Queries.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\прога\WPF + XAML\ComponentInteraction2\Q\obj\Debug\Q.exe
+\\Mac\Home\Desktop\прога\WPF + XAML\ComponentInteraction2\Q\obj\Debug\Q.pdb

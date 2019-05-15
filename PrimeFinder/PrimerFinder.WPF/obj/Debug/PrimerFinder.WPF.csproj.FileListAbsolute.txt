@@ -1,0 +1,15 @@
+\\Mac\Home\Desktop\PrimeFinder\PrimerFinder.WPF\bin\Debug\PrimerFinder.WPF.exe.config
+\\Mac\Home\Desktop\PrimeFinder\PrimerFinder.WPF\bin\Debug\PrimerFinder.WPF.exe
+\\Mac\Home\Desktop\PrimeFinder\PrimerFinder.WPF\bin\Debug\PrimerFinder.WPF.pdb
+\\Mac\Home\Desktop\PrimeFinder\PrimerFinder.WPF\bin\Debug\PrimeFinder.Core.dll
+\\Mac\Home\Desktop\PrimeFinder\PrimerFinder.WPF\bin\Debug\PrimeFinder.Core.pdb
+\\Mac\Home\Desktop\PrimeFinder\PrimerFinder.WPF\obj\Debug\PrimerFinder.WPF.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\PrimeFinder\PrimerFinder.WPF\obj\Debug\MainWindow.g.cs
+\\Mac\Home\Desktop\PrimeFinder\PrimerFinder.WPF\obj\Debug\App.g.cs
+\\Mac\Home\Desktop\PrimeFinder\PrimerFinder.WPF\obj\Debug\PrimerFinder.WPF_MarkupCompile.cache
+\\Mac\Home\Desktop\PrimeFinder\PrimerFinder.WPF\obj\Debug\PrimerFinder.WPF_MarkupCompile.lref
+\\Mac\Home\Desktop\PrimeFinder\PrimerFinder.WPF\obj\Debug\MainWindow.baml
+\\Mac\Home\Desktop\PrimeFinder\PrimerFinder.WPF\obj\Debug\PrimerFinder.WPF.g.resources
+\\Mac\Home\Desktop\PrimeFinder\PrimerFinder.WPF\obj\Debug\PrimerFinder.WPF.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\PrimeFinder\PrimerFinder.WPF\obj\Debug\PrimerFinder.WPF.exe
+\\Mac\Home\Desktop\PrimeFinder\PrimerFinder.WPF\obj\Debug\PrimerFinder.WPF.pdb

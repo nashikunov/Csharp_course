@@ -1,0 +1,6 @@
+/Users/nikolaysafonov/Desktop/прога/seminar3/HomeWork/bin/Debug/HomeWork.exe
+/Users/nikolaysafonov/Desktop/прога/seminar3/HomeWork/bin/Debug/HomeWork.pdb
+/Users/nikolaysafonov/Desktop/прога/seminar3/HomeWork/obj/Debug/HomeWork.csprojResolveAssemblyReference.cache
+/Users/nikolaysafonov/Desktop/прога/seminar3/HomeWork/obj/Debug/HomeWork.csproj.CoreCompileInputs.cache
+/Users/nikolaysafonov/Desktop/прога/seminar3/HomeWork/obj/Debug/HomeWork.exe
+/Users/nikolaysafonov/Desktop/прога/seminar3/HomeWork/obj/Debug/HomeWork.pdb

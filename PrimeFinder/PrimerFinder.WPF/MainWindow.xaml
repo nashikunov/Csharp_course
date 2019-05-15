@@ -1,0 +1,26 @@
+﻿<Window x:Class="PrimerFinder.WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PrimerFinder.WPF"
+        mc:Ignorable="d"
+        Title="Prime finder" Height="350" Width="525" FontSize="14">
+    <Grid Margin="5">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="Auto"/>
+        </Grid.ColumnDefinitions>
+        <TextBlock Margin="5">Enter n:</TextBlock>
+        <TextBox Height="25" Name="textBoxNumber" Grid.Column="1"></TextBox>
+        <Button Name="buttonFind" Grid.Column="2" Margin="5 0" Width="100" Click="buttonFind_Click">Find!</Button>
+        <Button Name="buttonCancel" Grid.Column="3" Margin="5 0" Width="100">Cancel!</Button>
+        <ListBox Name="listBoxPrimes" Grid.Row="1" Grid.ColumnSpan="4" Margin="0 5 0 0" />
+    </Grid>
+</Window>

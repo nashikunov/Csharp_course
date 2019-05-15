@@ -1,0 +1,6 @@
+/Users/nikolaysafonov/Desktop/прога/Seminar 2/Seminar 2/bin/Debug/Seminar2.exe
+/Users/nikolaysafonov/Desktop/прога/Seminar 2/Seminar 2/bin/Debug/Seminar2.pdb
+/Users/nikolaysafonov/Desktop/прога/Seminar 2/Seminar 2/obj/Debug/Seminar 2.csprojResolveAssemblyReference.cache
+/Users/nikolaysafonov/Desktop/прога/Seminar 2/Seminar 2/obj/Debug/Seminar 2.csproj.CoreCompileInputs.cache
+/Users/nikolaysafonov/Desktop/прога/Seminar 2/Seminar 2/obj/Debug/Seminar2.exe
+/Users/nikolaysafonov/Desktop/прога/Seminar 2/Seminar 2/obj/Debug/Seminar2.pdb

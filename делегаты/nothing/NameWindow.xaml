@@ -1,0 +1,18 @@
+﻿<Window x:Class="nothing.NameWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:nothing"
+        mc:Ignorable="d"
+        Title="NameWindow" Height="300" Width="300">
+    <Grid>
+        
+        <StackPanel>
+            <TextBlock HorizontalAlignment="Center" FontWeight="Bold" Text="Список гостей:" Margin="0 0 0 20" />
+            <TextBlock x:Name="GuestList" Text=""/>
+
+        </StackPanel>
+               
+    </Grid>
+</Window>

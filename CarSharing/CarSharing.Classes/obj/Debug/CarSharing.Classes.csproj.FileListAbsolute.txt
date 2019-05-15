@@ -1,0 +1,8 @@
+\\Mac\Home\Desktop\CarSharing\CarSharing.Classes\obj\Debug\CarSharing.Classes.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\CarSharing\CarSharing.Classes\obj\Debug\CarSharing.Classes.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\CarSharing\CarSharing.Classes\bin\Debug\CarSharing.Classes.dll
+\\Mac\Home\Desktop\CarSharing\CarSharing.Classes\bin\Debug\CarSharing.Classes.pdb
+\\Mac\Home\Desktop\CarSharing\CarSharing.Classes\bin\Debug\Newtonsoft.Json.dll
+\\Mac\Home\Desktop\CarSharing\CarSharing.Classes\bin\Debug\Newtonsoft.Json.xml
+\\Mac\Home\Desktop\CarSharing\CarSharing.Classes\obj\Debug\CarSharing.Classes.dll
+\\Mac\Home\Desktop\CarSharing\CarSharing.Classes\obj\Debug\CarSharing.Classes.pdb

@@ -1,0 +1,7 @@
+\\Mac\Home\Desktop\прога\LINQ\Student\obj\Debug\Student.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\прога\LINQ\Student\obj\Debug\Student.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\прога\LINQ\Student\bin\Debug\Student.exe.config
+\\Mac\Home\Desktop\прога\LINQ\Student\bin\Debug\Student.exe
+\\Mac\Home\Desktop\прога\LINQ\Student\bin\Debug\Student.pdb
+\\Mac\Home\Desktop\прога\LINQ\Student\obj\Debug\Student.exe
+\\Mac\Home\Desktop\прога\LINQ\Student\obj\Debug\Student.pdb

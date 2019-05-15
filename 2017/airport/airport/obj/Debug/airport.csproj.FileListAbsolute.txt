@@ -1,0 +1,6 @@
+/Users/nikolaysafonov/Desktop/прога/airport/airport/obj/Debug/airport.csprojResolveAssemblyReference.cache
+/Users/nikolaysafonov/Desktop/прога/airport/airport/obj/Debug/airport.csproj.CoreCompileInputs.cache
+/Users/nikolaysafonov/Desktop/прога/airport/airport/bin/Debug/airport.exe
+/Users/nikolaysafonov/Desktop/прога/airport/airport/bin/Debug/airport.pdb
+/Users/nikolaysafonov/Desktop/прога/airport/airport/obj/Debug/airport.exe
+/Users/nikolaysafonov/Desktop/прога/airport/airport/obj/Debug/airport.pdb

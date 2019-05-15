@@ -1,0 +1,6 @@
+/Users/nikolaysafonov/Desktop/прога/seminar3/seminar3.2/bin/Debug/seminar3.2.exe
+/Users/nikolaysafonov/Desktop/прога/seminar3/seminar3.2/bin/Debug/seminar3.2.pdb
+/Users/nikolaysafonov/Desktop/прога/seminar3/seminar3.2/obj/Debug/seminar3.2.csprojResolveAssemblyReference.cache
+/Users/nikolaysafonov/Desktop/прога/seminar3/seminar3.2/obj/Debug/seminar3.2.csproj.CoreCompileInputs.cache
+/Users/nikolaysafonov/Desktop/прога/seminar3/seminar3.2/obj/Debug/seminar3.2.exe
+/Users/nikolaysafonov/Desktop/прога/seminar3/seminar3.2/obj/Debug/seminar3.2.pdb

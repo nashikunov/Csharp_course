@@ -1,0 +1,6 @@
+/Users/nikolaysafonov/Desktop/прога/seminar3/OnlineBank/bin/Debug/OnlineBank.exe
+/Users/nikolaysafonov/Desktop/прога/seminar3/OnlineBank/bin/Debug/OnlineBank.pdb
+/Users/nikolaysafonov/Desktop/прога/seminar3/OnlineBank/obj/Debug/OnlineBank.csproj.CoreCompileInputs.cache
+/Users/nikolaysafonov/Desktop/прога/seminar3/OnlineBank/obj/Debug/OnlineBank.exe
+/Users/nikolaysafonov/Desktop/прога/seminar3/OnlineBank/obj/Debug/OnlineBank.pdb
+/Users/nikolaysafonov/Desktop/прога/seminar3/OnlineBank/obj/Debug/OnlineBank.csprojResolveAssemblyReference.cache

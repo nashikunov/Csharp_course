@@ -1,0 +1,15 @@
+\\Mac\Home\Desktop\прога\HW\HW\bin\Debug\HW.exe.config
+\\Mac\Home\Desktop\прога\HW\HW\bin\Debug\HW.exe
+\\Mac\Home\Desktop\прога\HW\HW\bin\Debug\HW.pdb
+\\Mac\Home\Desktop\прога\HW\HW\obj\Debug\HW.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\прога\HW\HW\obj\Debug\MainWindow.g.cs
+\\Mac\Home\Desktop\прога\HW\HW\obj\Debug\App.g.cs
+\\Mac\Home\Desktop\прога\HW\HW\obj\Debug\HW_MarkupCompile.cache
+\\Mac\Home\Desktop\прога\HW\HW\obj\Debug\HW_MarkupCompile.lref
+\\Mac\Home\Desktop\прога\HW\HW\obj\Debug\MainWindow.baml
+\\Mac\Home\Desktop\прога\HW\HW\obj\Debug\HW.g.resources
+\\Mac\Home\Desktop\прога\HW\HW\obj\Debug\HW.Properties.Resources.resources
+\\Mac\Home\Desktop\прога\HW\HW\obj\Debug\HW.csproj.GenerateResource.Cache
+\\Mac\Home\Desktop\прога\HW\HW\obj\Debug\HW.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\прога\HW\HW\obj\Debug\HW.exe
+\\Mac\Home\Desktop\прога\HW\HW\obj\Debug\HW.pdb

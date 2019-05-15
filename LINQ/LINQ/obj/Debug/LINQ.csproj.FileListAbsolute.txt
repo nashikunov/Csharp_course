@@ -1,0 +1,7 @@
+\\Mac\Home\Desktop\прога\LINQ\LINQ\bin\Debug\LINQ.exe.config
+\\Mac\Home\Desktop\прога\LINQ\LINQ\bin\Debug\LINQ.exe
+\\Mac\Home\Desktop\прога\LINQ\LINQ\bin\Debug\LINQ.pdb
+\\Mac\Home\Desktop\прога\LINQ\LINQ\obj\Debug\LINQ.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\прога\LINQ\LINQ\obj\Debug\LINQ.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\прога\LINQ\LINQ\obj\Debug\LINQ.exe
+\\Mac\Home\Desktop\прога\LINQ\LINQ\obj\Debug\LINQ.pdb

@@ -1,0 +1,120 @@
+﻿<Window x:Class="HW2.Core.Schedule"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="Sсhedule"
+        MinHeight="640"
+        MinWidth="480"
+        Height="640"
+        Width="480"
+        WindowStartupLocation="CenterOwner">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30" />
+            <RowDefinition Height="30" />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+        <ComboBox
+            Name="Station"
+            Grid.Row="0"
+            VerticalAlignment="Center"
+            HorizontalAlignment="Center"
+            Width="450"
+            IsEnabled="False"
+            Cursor=""
+            SelectionChanged="Station_SelectionChanged">
+            <ComboBox.ItemTemplate>
+                <DataTemplate>
+                    <TextBlock Text="{Binding }" />
+                </DataTemplate>
+            </ComboBox.ItemTemplate>
+        </ComboBox>
+
+        <TextBlock
+            Name="CurrentTime"
+            Grid.Column="0"
+            Grid.Row="1"
+            Width="40"
+            TextAlignment="Right"
+            FontFamily="Courier New"
+            Margin="0 0 150 0"
+            HorizontalAlignment="Center"
+            VerticalAlignment="Center" />
+        <Button
+            Grid.Column="0"
+            Grid.Row="1"
+            Content="Get schedule"
+            HorizontalAlignment="Center"
+            VerticalAlignment="Center"
+            Width="80"
+            Click="GetSchedule_Click"
+            Name="GetSchedule"
+            Background="LightGreen"
+            IsEnabled="False" />
+
+        <Button
+            Grid.Column="0"
+            Grid.Row="1"
+            Content="Log out"
+            HorizontalAlignment="Center"
+            VerticalAlignment="Center"
+            Width="60"
+            Name="LogOutButton"
+            Click="LogOutButton_Click"
+            Background="LightPink" Margin="370 0 0 0" />
+
+        <DataGrid
+            HorizontalContentAlignment="Center"
+            Name="Timetable"
+            Grid.Row="2"
+            AutoGenerateColumns="False"
+            IsReadOnly="True"
+            Width="450"
+            HorizontalAlignment="Center"
+            VerticalAlignment="Top"
+            RowHeaderWidth="0"
+            CanUserResizeColumns="False"
+            CanUserResizeRows="False">
+            <DataGrid.Columns>
+                <DataGridTextColumn Width="2*" Header="№" Binding="{Binding RouteNumber}">
+                    <DataGridTextColumn.HeaderStyle>
+                        <Style TargetType="DataGridColumnHeader">
+                            <Setter Property="HorizontalContentAlignment" Value="Center" />
+                        </Style>
+                    </DataGridTextColumn.HeaderStyle>
+                    <DataGridTextColumn.ElementStyle>
+                        <Style>
+                            <Setter Property="TextBlock.TextAlignment" Value="Center" />
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn>
+                <DataGridTextColumn Width="4*" Header="Destination" Binding="{Binding Destination.Name}">
+                    <DataGridTextColumn.HeaderStyle>
+                        <Style TargetType="DataGridColumnHeader">
+                            <Setter Property="HorizontalContentAlignment" Value="Center" />
+                        </Style>
+                    </DataGridTextColumn.HeaderStyle>
+                    <DataGridTextColumn.ElementStyle>
+                        <Style>
+                            <Setter Property="TextBlock.TextAlignment" Value="Center" />
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn>
+                <DataGridTextColumn Width="3*" Header="Minutes" Binding="{Binding WaitingTime}">
+                    <DataGridTextColumn.HeaderStyle>
+                        <Style TargetType="DataGridColumnHeader">
+                            <Setter Property="HorizontalContentAlignment" Value="Center" />
+                        </Style>
+                    </DataGridTextColumn.HeaderStyle>
+                    <DataGridTextColumn.ElementStyle>
+                        <Style>
+                            <Setter Property="TextBlock.TextAlignment" Value="Center" />
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>
